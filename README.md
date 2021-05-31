@@ -177,7 +177,7 @@ function a:Window(w)
     D.Rotation = 180
     E.Name = "Bottom"
     E.Parent = y
-    E.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+    E.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
     E.BorderSizePixel = 0
     E.ClipsDescendants = true
     E.Position = UDim2.new(0, 0, 1, 0)
